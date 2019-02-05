@@ -1,5 +1,6 @@
 # Stylus-ScienceDirectDark
-Just a couple Stylus themes I have been working on
+
+You can view this theme on the Stylish site [here](https://userstyles.org/styles/168598/sciencedirect-dark)
 
 
 - [x] Upload to GitHub
